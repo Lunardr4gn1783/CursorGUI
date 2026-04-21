@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 589
+  Left = 247
   Height = 487
-  Top = 163
+  Top = 135
   Width = 579
   Caption = 'CursorGUI'
   ClientHeight = 487
@@ -1829,12 +1829,12 @@ object Form1: TForm1
       'Diagonal Resize 1'
       'Diagonal Resize 2'
       'Handwriting'
-      'HelpSelect'
+      'Help Select'
       'Horizontal Resize'
       'Link Select'
       'Location Select'
       'Move'
-      'NormalSelect'
+      'Normal Select'
       'Person'
       'Precision Select'
       'Select'
